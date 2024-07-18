@@ -33,7 +33,7 @@ int main() {
 
   
     lectures.push_back(Lecture("rohit", "Mathematics", "Calculus", 10));
-    lectures.push_back(Lecture("Janjana", "Physics", "Quantum Mechanics", 8));
+    lectures.push_back(Lecture("anjana", "Physics", "Quantum Mechanics", 8));
     lectures.push_back(Lecture("sakshi", "Chemistry", "Organic Chemistry", 12));
     lectures.push_back(Lecture("rahul", "Biology", "Genetics", 6));
     lectures.push_back(Lecture("riya", "Computer Science", "Data Structures", 14));
