@@ -1,0 +1,1 @@
+    lectures.push_back(Lecture("rohit", "Mathematics", "Calculus", 10));
