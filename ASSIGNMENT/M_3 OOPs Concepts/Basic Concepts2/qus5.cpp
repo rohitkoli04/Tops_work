@@ -40,9 +40,9 @@ public:
 
 int main() {
     Person person;
-    person.setName("John Doe");
+    person.setName("rohit");
     person.setAge(30);
-    person.setCountry("USA");
+    person.setCountry("30");
 
     cout << "Name: " << person.getName() << endl;
     cout << "Age: " << person.getAge() << endl;
