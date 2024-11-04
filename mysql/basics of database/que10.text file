@@ -1,0 +1,3 @@
+What is trigger and how to create a Trigger in SQL?
+A trigger in SQL is a stored procedure that automatically
+ executes in response to specific events, such as data modifications

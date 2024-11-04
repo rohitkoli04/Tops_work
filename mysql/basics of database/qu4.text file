@@ -1,0 +1,6 @@
+ What is MF Cod Rule of RDBMS Systems?
+
+ The MF Cod Rule (1NF) states that each table in a relational database should have a primary key that uniquely identifies each row.
+ The rule also requires that each column in the table should contain atomic (indivisible) values, meaning that a column should not
+contain multiple values separated by commas or other separators.n other words, 1NF ensures that each row in a table represents a
+ single entity and that there is no redundancy or duplication of data.

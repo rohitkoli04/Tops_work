@@ -1,0 +1,3 @@
+What is DDL Interpreter?
+A DDL Interpreter (Data Definition Language Interpreter) in human words refers to a software component or tool 
+that executes Data Definition Language (DDL) statements, such as CREATE, ALTER, and DROP, to manage the structure and schema of a database.

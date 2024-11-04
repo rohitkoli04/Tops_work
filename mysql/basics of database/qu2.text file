@@ -1,0 +1,4 @@
+What is Normalization?
+
+ the process of organizing and structuring a database to minimize data redundancy and improve data integrity.
+ It involves creating tables with related data and establishing relationships between them.
